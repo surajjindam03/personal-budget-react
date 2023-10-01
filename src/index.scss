@@ -420,7 +420,7 @@ nav ul li a:hover  {
 header.hero {
   height: 350px;
   background-color: #b4c6f0;
-  background-image: url('/public/bg.png');
+  background-image: url('../public/bg.png');
   background-size: 400px;
   background-repeat: no-repeat;
   background-position: center bottom;
@@ -502,6 +502,6 @@ polyline{
     fill: none;
 }
 
-#pie-chart{
+.pie-chart{
   height: 500px;
 }

@@ -35,14 +35,6 @@ function HomePage() {
         <h1>Free</h1>
         <p>This app is free!!! And you are the only one holding your data!</p>
       </article>
-
-      <article>
-        <h1>Chart</h1>
-        <p>
-          <canvas id="myChart" width="400" height="400"></canvas>
-        </p>
-      </article>
-      <div id="pie-chart"></div>
     </div>
   </main>
   );
